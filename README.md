@@ -1,4 +1,4 @@
-# A notice from Arbitrarily Tong
+# A notice from ArbitrarilyTong
 We found out the Davinci SM8150 Edition(Redmi K20s)'s kernel!
 https://github.com/ArbitrarilyTong/Xiaomi_Kernel_OpenSource/blob/nabu-r-oss/arch/arm64/boot/dts/qcom/davinci-sm8150.dtsi
 
