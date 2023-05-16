@@ -1,3 +1,8 @@
+# A notice from Arbitrarily Tong
+We found out the Davinci SM8150 Edition(Redmi K20s)'s kernel!
+https://github.com/ArbitrarilyTong/Xiaomi_Kernel_OpenSource/blob/nabu-r-oss/arch/arm64/boot/dts/qcom/davinci-sm8150.dtsi
+
+# Original README
 | Branch | Device | Android version | Base tag | Link |
 | :-: | :-: | :-: | :-: | :-: |
 | alioth-r-oss | Mi 10S, Redmi K40 | Android R | LA.UM.9.12.r1-08000-SMxx50.0 | [alioth-r-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/alioth-r-oss) |   
